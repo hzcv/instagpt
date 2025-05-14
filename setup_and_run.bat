@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 REM Run the bot script
 echo [*] Running bot...
-python instagram_bot.py
+python login.py
 
 REM Keep console open after running
 pause
